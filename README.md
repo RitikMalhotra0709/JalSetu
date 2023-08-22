@@ -24,5 +24,5 @@ For this project, we used the following hardware/software technologies : <br/>
 ### `Project Circuit and Dashboard`
 
 ![Alt text](src/items/oie_XwuGuaI8B9vf.jpg?raw=true "Circuit")
-![Alt text](src/items/dashboard.png?raw=true "Dashboard")
+![Alt text](src/items/dashboard.jpeg?raw=true "Dashboard")
 ![Alt text](src/items/razorpay.png?raw=true "Integrated Payment")
